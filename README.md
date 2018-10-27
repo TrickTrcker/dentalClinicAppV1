@@ -1,2 +1,2 @@
-# AjaxTransporter
-Jquery components for ajax request - GET POST  and etc
+# Dental Clinic App
+Angular 6 and .Net Core
